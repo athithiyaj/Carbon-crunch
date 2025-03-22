@@ -1,7 +1,6 @@
 # Carbon-crunch
 # Carbon Crunch - Sustainability Dashboard
 
-![Carbon Crunch Banner](https://png.pngtree.com/png-clipart/20230919/original/pngtree-flat-co2-icon-on-white-background-symbolizing-gas-reduction-vector-png-image_12395324.png)
 
 **Carbon Crunch** is a visually engaging and interactive web page designed to showcase the importance of sustainability and carbon footprint reduction. It features a parallax scrolling effect, animated statistics, and a responsive design optimized for both desktop and mobile devices.
 
