@@ -55,7 +55,7 @@ Adjusted font sizes and spacing for smaller screens.
 
 ## Live Demo
 Check out the live demo of the project:
-Live Demo
+https://athithiyaj.github.io/Carbon-crunch/
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
